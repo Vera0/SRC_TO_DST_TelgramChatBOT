@@ -1,5 +1,5 @@
-API_TOKEN = '1336870147:AAHxZHJ83erYQ9YbCvOA7jDZirm3pwG2xkk'
+API_TOKEN = 'Your_api Token'
 
-MOMIAC_CHAT_ID = -1001102414595
-IVCGB_CHAT_ID = -440096929
-TRIGGER_WORDS = {"ивантеевская центральная городская больница", "опубликов"}
+SRC_CHAT_ID = -"chat_id"
+DST_CHAT_ID = -"chat_id"
+TRIGGER_WORDS = {"Your_Words"}
